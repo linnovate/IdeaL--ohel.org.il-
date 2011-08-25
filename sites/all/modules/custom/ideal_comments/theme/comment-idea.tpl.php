@@ -25,7 +25,6 @@
  * @see template_preprocess_comment()
  * @see theme_comment()
  */
-dpm($comment);
 ?>
 <?php global $user;?>
 
